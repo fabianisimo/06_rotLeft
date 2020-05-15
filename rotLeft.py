@@ -16,6 +16,7 @@ print ("a: ",datos[0])
 print ("largo a: ", len(datos[0]))
 print ("d: ",datos[1])
 
+
 def rotLeft(a,d):
     pib = []
     quitador = 0
